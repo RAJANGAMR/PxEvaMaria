@@ -288,11 +288,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('Update Channel', url='https://t.me/TamilBots'),
+                    InlineKeyboardButton('Update Channel', url='https://t.me/Tamil_Astrology'),
                     InlineKeyboardButton('Source Code', url='https://github.com/ImSaravanakrish')
                 ]
                 ]
-            await query.message.edit(text="<b>Developer : <a href='https://t.me/TamilBotz'>TamilBots</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://github.com/ImSaravanakrish'>Click here</a>\nUpdate Channel : <a href='https://t.me/TamilBots'>Tamil Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
+            await query.message.edit(text="<b>Developer : <a href='http://t.me/pxmedia_rajangam'>TamilBots</a>\nLanguage : <code>Python3</code>\nLibrary : <a href='https://docs.pyrogram.org/'>Pyrogram asyncio</a>\nSource Code : <a href='https://github.com/RAJANGAMR'>Click here</a>\nUpdate Channel : <a href='https://t.me/Tamil_Astrology'>Tamil Bots</a> </b>", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
 
 
 
@@ -313,8 +313,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('More Bots', url='https://t.me/TamilBots/84'),
-                        InlineKeyboardButton('Update Channel', url='https://t.me/TamilBots')
+                        InlineKeyboardButton('More Channel', url='https://t.me/Tamil_Panchangam'),
+                        InlineKeyboardButton('Update Channel', url='https://t.me/Tamil_Astrology')
                     ]
                     ]
                 
@@ -345,8 +345,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('More Bots 🤩', url='https://t.me/TamilBots/84'),
-                        InlineKeyboardButton('Update Channel 🥳', url='https://t.me/TamilBots')
+                        InlineKeyboardButton('More Channel 🤩', url='https://t.me/Tamil_Panchangam'),
+                        InlineKeyboardButton('Update Channel 🥳', url='https://t.me/Tamil_Astrology')
                     ]
                     ]
                 
