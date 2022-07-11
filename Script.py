@@ -1,42 +1,42 @@
 class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 BOOKS, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 😍"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """
-╭────[🔅Movie ProBᴏᴛ🔅]───⍟
+    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
+╭────[🔅MY GROUPᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/TgMovieProBot'>ᴍᴏᴠɪᴇ ᴘʀᴏʙᴏᴛ</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/@PX_AutoFilter_bot'>📚 Books-backup-bot 🇮🇳</a></b>
 │
-├<b>📢 Update Channel : <a href='https://t.me/TamilBots'>TamilBots</a></b>
+├<b>📢 Update Channel : <a href='https://t.me/Tamil_Astrology'>நன்பர்கள் குழு 🇮🇳</a></b>
 │
-├<b>👥 Support Chat : <a href='https://t.me/TamilSupport'>TamilSupport</a></b>
+├<b>👥 Support Channel : <a href='https://t.me/Tamil_Panchangam'>🌞 பஞ்சாங்கம் 🌞</a></b>
 │
-├<b>💢 Source : <a href='https://github.com/imsaravanakrish'>Click Here</a></b>
+├<b>💢 Group Info : <a href='https://t.me/Aanmeekam'>தமிழன் ஆன்மீகம் குழு</a></b>
 │
-├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
+├<b>🌐 Channel Info : <a href='https://t.me/aedaham_library_noolakam'>ஏடகம் library குழு 🇮🇳</a></b>
 │
-├<b>📕 Data Base : <a href='https://mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a></b>
+├<b>📕 Tamil Mp3 : <a href='https://t.me/Tamil_jukebox_songs/'>Tamil jukebox Song's</a></b>
 │
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
+├<b>㊙ Jallikattu Group : <a href='https://t.me/Tamilnadu_Jallikattu'>தமிழ்நாடு ஜல்லிக்கட்டு</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/SaravanaKrish'>✭ Iϻsαi🎭Arⱥ𝖘aภ ✭</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/PXMEDIA_RAJAMGAM'>RAJAMGAM</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/TamilBotZ'>TamilBotZ</a></b>
+├<b>🚸 Admin Contact : <a href='https://t.me/tamil_message_bot'>Admin Message 🇮🇳</a></b>
 │
-╰──────[Thanks 😊]───⍟"""
+╰──────[Thanks 😊]───⍟""" 
     SOURCE_TXT = """<b>NOTE:</b>
-- its nothing. 
-- Source - <a href=https://t.me/TamilMoviesChat>✭ᴛᴀᴍɪʟ ᴍᴏᴠɪᴇꜱ ᴄʜᴀᴛ ✭</a>. 
+- is a Open
+- தமிழன் வணிக போர்டல் - https://t.me/Tamilnadu_Buissness_Portal 
 
 <b>DEVS:</b>
-- <a href=https://t.me/useless07>ﮩ٨ـﮩﮩ٨✭ Iϻsαi🎭Arⱥ𝖘aภ ✭ ﮩ٨ـﮩﮩ٨ـ</a>"""
+- <a href=https://t.me/tamil_message_bot>Admin Message 🇮🇳</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
 
 <b>NOTE:</b>
-1. TamilBot should have admin privillage.
+1. eva maria should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 
@@ -47,15 +47,15 @@ class script(object):
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- TamilBot Supports both url and alert inline buttons.
+- Eva Maria Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Tamilmovie bot supports buttons with any telegram media type.
+2. Eva Maria supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/TamilMoviesChat)</code>
+<code>[Button Text](buttonurl:https://t.me/PX_AutoFilter_bot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -82,10 +82,10 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of TamilBot
+these are the extra features of Eva Maria
 
 <b>Commands and Usage:</b>
-• /id - <code>get id of a specifed user.</code>
+• /id - <code>get id of a specified user.</code>
 • /info  - <code>get information about a user.</code>
 • /imdb  - <code>get the film information from IMDb source.</code>
 • /search  - <code>get the film information from various sources.</code>"""
